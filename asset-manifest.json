@@ -1,10 +1,12 @@
 {
-  "about.js": "static/js/about.585a1285.chunk.js",
-  "about.js.map": "static/js/about.585a1285.chunk.js.map",
-  "home.js": "static/js/home.07af9aa3.chunk.js",
-  "home.js.map": "static/js/home.07af9aa3.chunk.js.map",
-  "main.js": "static/js/main.4d1ddf49.js",
-  "main.js.map": "static/js/main.4d1ddf49.js.map",
-  "start.js": "static/js/start.7c8fa7c5.chunk.js",
-  "start.js.map": "static/js/start.7c8fa7c5.chunk.js.map"
+  "about.js": "static/js/about.56493b00.chunk.js",
+  "about.js.map": "static/js/about.56493b00.chunk.js.map",
+  "home.js": "static/js/home.38c38c26.chunk.js",
+  "home.js.map": "static/js/home.38c38c26.chunk.js.map",
+  "main.js": "static/js/main.965c3d3f.js",
+  "main.js.map": "static/js/main.965c3d3f.js.map",
+  "start.js": "static/js/start.2cc584eb.chunk.js",
+  "start.js.map": "static/js/start.2cc584eb.chunk.js.map",
+  "static\\media\\Free Reiki Course_long light text_long light text.png": "static/media/Free Reiki Course_long light text_long light text.7a397906.png",
+  "static\\media\\meditation-2214532.jpg": "static/media/meditation-2214532.3e4ff46a.jpg"
 }
