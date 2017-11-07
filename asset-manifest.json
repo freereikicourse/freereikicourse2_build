@@ -1,12 +1,14 @@
 {
-  "about.js": "static/js/about.fc85c19f.chunk.js",
-  "about.js.map": "static/js/about.fc85c19f.chunk.js.map",
-  "home.js": "static/js/home.b222c96f.chunk.js",
-  "home.js.map": "static/js/home.b222c96f.chunk.js.map",
-  "main.js": "static/js/main.ab46eeb9.js",
-  "main.js.map": "static/js/main.ab46eeb9.js.map",
-  "start.js": "static/js/start.b5034a32.chunk.js",
-  "start.js.map": "static/js/start.b5034a32.chunk.js.map",
+  "about.js": "static/js/about.62426d59.chunk.js",
+  "about.js.map": "static/js/about.62426d59.chunk.js.map",
+  "home.js": "static/js/home.c6c1d8d1.chunk.js",
+  "home.js.map": "static/js/home.c6c1d8d1.chunk.js.map",
+  "main.js": "static/js/main.a15a231b.js",
+  "main.js.map": "static/js/main.a15a231b.js.map",
+  "start.js": "static/js/start.a465a09f.chunk.js",
+  "start.js.map": "static/js/start.a465a09f.chunk.js.map",
   "static\\media\\Free_Reiki_Course_long_light_text.png": "static/media/Free_Reiki_Course_long_light_text.7a397906.png",
-  "static\\media\\meditation-2214532.jpg": "static/media/meditation-2214532.3e4ff46a.jpg"
+  "static\\media\\buda-2742383_small.jpg": "static/media/buda-2742383_small.c49375dc.jpg",
+  "static\\media\\meditation-2214532.jpg": "static/media/meditation-2214532.3e4ff46a.jpg",
+  "static\\media\\mink-mingle-245029_small.jpg": "static/media/mink-mingle-245029_small.1790224b.jpg"
 }
