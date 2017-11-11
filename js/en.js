@@ -1,0 +1,50 @@
+// variable declaration for alert messages (for album)
+var TXT_Var35255 = "Previous"; 
+var TXT_Var35256 = "Previous"; 
+var TXT_Var35257 = "Next"; 
+var TXT_Var35258 = "Next"; 
+var TXT_Var35259 = "Created Date"; 
+var TXT_Var35260 = "Large Image File Size"; 
+var TXT_Var35261 = "Resolution"; 
+var TXT_Var35263 = "This link is disabled in Testdrive"; 
+var TXT_Var35419 = "Previous"; 
+var TXT_Var35420 = "Previous"; 
+var TXT_Var35421 = "Next"; 
+var TXT_Var35422 = "Next"; 
+var TXT_Var35423 = "Created Date"; 
+var TXT_Var35424 = "Large Image File Size"; 
+var TXT_Var35425 = "Resolution"; 
+var TXT_Var35530 = "Rewind"; 
+var TXT_Var35531 = "Rewind"; 
+var TXT_Var35532 = "Forward"; 
+var TXT_Var35533 = "Forward"; 
+var TXT_Var35534 = "Play"; 
+var TXT_Var35535 = "Stop"; 
+var TXT_Var35536 = "Created Date"; 
+var TXT_Var35537 = "Resolution"; 
+var TXT_Var35642 = "Rewind"; 
+var TXT_Var35643 = "Rewind"; 
+var TXT_Var35644 = "Forward"; 
+var TXT_Var35645 = "Forward"; 
+var TXT_Var35646 = "Play"; 
+var TXT_Var35647 = "Stop"; 
+var TXT_Var35648 = "Created Date: "; 
+var TXT_Var35649 = "Resolution"; 
+var TXT_Var35701 = "Handler could not be removed"; 
+
+var TXT_Var48700 = "Next";
+var TXT_Var48701 = "Show All";
+var TXT_Var48702 = "View:";
+var TXT_Var48703 = "Thumbnail";
+var TXT_Var48704 = "Slide Show";
+var TXT_Var48705 = "Click on thumbnail to view larger version";
+
+
+var TXT_Var48950 = "Speed";
+var TXT_Var48951 = "Slow";
+var TXT_Var48952 = "Normal";
+var TXT_Var48953 = "Fast";
+var TXT_Var48954 = "Close this Window";
+var TXT_Var48955 = "Showing Slide";
+var TXT_Var48956 = "of";
+var TXT_Var48957 = "Slide Show";
