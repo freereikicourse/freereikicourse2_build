@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.f87f4b36.css",
   "main.css.map": "static/css/main.f87f4b36.css.map",
-  "main.js": "static/js/main.e4d63b69.js",
-  "main.js.map": "static/js/main.e4d63b69.js.map",
+  "main.js": "static/js/main.d45bab06.js",
+  "main.js.map": "static/js/main.d45bab06.js.map",
   "static\\media\\01_Morpheo.mp3": "static/media/01_Morpheo.4c3aeda0.mp3",
   "static\\media\\02_Asher_Quinn_Greensleeves.mp3": "static/media/02_Asher_Quinn_Greensleeves.c26864ba.mp3",
   "static\\media\\03.mp3": "static/media/03.faf3100a.mp3",
@@ -17,7 +17,7 @@
   "static\\media\\animalReiki.jpg": "static/media/animalReiki.f2b652ff.jpg",
   "static\\media\\buda-2742383_small.jpg": "static/media/buda-2742383_small.c49375dc.jpg",
   "static\\media\\certificateReikiExample.jpg": "static/media/certificateReikiExample.a584d745.jpg",
-  "static\\media\\diplomas.png": "static/media/diplomas.48ac2624.png",
+  "static\\media\\diplomas.png": "static/media/diplomas.434805cd.png",
   "static\\media\\folow_on_facebook.jpg": "static/media/folow_on_facebook.9edcfaf8.jpg",
   "static\\media\\fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
   "static\\media\\fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
@@ -27,5 +27,8 @@
   "static\\media\\meditation-2214532_small.jpg": "static/media/meditation-2214532_small.59925823.jpg",
   "static\\media\\mink-mingle-245029_small.jpg": "static/media/mink-mingle-245029_small.1790224b.jpg",
   "static\\media\\monk.jpg": "static/media/monk.3e4ff46a.jpg",
+  "static\\media\\oneDiplomaSmall.jpg": "static/media/oneDiplomaSmall.ab517b68.jpg",
+  "static\\media\\oneReview.jpg": "static/media/oneReview.1b2c29a7.jpg",
+  "static\\media\\reviews.png": "static/media/reviews.bffb0517.png",
   "static\\media\\why_reiki_is_good_for_you_small.jpg": "static/media/why_reiki_is_good_for_you_small.56fd5b91.jpg"
 }
