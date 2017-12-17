@@ -259,7 +259,39 @@
       }
     });
     window.woopra && window.woopra.track(`linkClick`, {url});
-  }</script><script>IS_LOCALHOST||(!function(){var o,e,r,t=window,c=document,n=arguments,a="script",i=["config","track","identify","visit","push","call","trackForm","trackClick"];for(t._w=t._w||{},o=0;n.length>o;o++)t._w[n[o]]=t[n[o]]=t[n[o]]||new function(){var o,e=this;for(e._e=[],o=0;i.length>o;o++)!function(o){e[o]=function(){return e._e.push([o].concat(Array.prototype.slice.call(arguments,0))),e}}(i[o])};(e=c.createElement(a)).async=1,e.src="//static.woopra.com/js/w.js",(r=c.getElementsByTagName(a)[0]).parentNode.insertBefore(e,r)}("woopra"),woopra.config({domain:"freereikicourse.com"}),woopra.track())</script><script type="text/javascript">if(!IS_LOCALHOST){var Tawk_API=Tawk_API||{},Tawk_LoadStart=new Date;!function(){var t=document.createElement("script"),e=document.getElementsByTagName("script")[0];t.async=!0,t.src="https://embed.tawk.to/5a088898198bd56b8c03aacd/default",t.charset="UTF-8",t.setAttribute("crossorigin","*"),e.parentNode.insertBefore(t,e)}()}</script><script>const ENABLE_ADSENSE = false;
+  }</script><script>if (!IS_LOCALHOST) {
+    (function () {
+      var t, i, e, n = window, o = document, a = arguments, s = "script",
+        r = ["config", "track", "identify", "visit", "push", "call", "trackForm", "trackClick"], c = function () {
+          var t, i = this;
+          for (i._e = [], t = 0; r.length > t; t++) (function (t) {
+            i[t] = function () {
+              return i._e.push([t].concat(Array.prototype.slice.call(arguments, 0))), i
+            }
+          })(r[t])
+        };
+      for (n._w = n._w || {}, t = 0; a.length > t; t++) n._w[a[t]] = n[a[t]] = n[a[t]] || new c;
+      i = o.createElement(s), i.async = 1, i.src = "//static.woopra.com/js/w.js", e = o.getElementsByTagName(s)[0];
+      setTimeout(() => {e.parentNode.insertBefore(i, e)}, 1000);
+    })("woopra");
+
+    woopra.config({
+      domain: 'freereikicourse.com'
+    });
+    woopra.track();
+  }</script><script type="text/javascript">if (!IS_LOCALHOST) {
+    setTimeout(() => {
+      var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+      (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/5a088898198bd56b8c03aacd/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+      })();
+    }, 1000);
+  }</script><script>const ENABLE_ADSENSE = false;
   if (!IS_LOCALHOST && ENABLE_ADSENSE) {
     loadScript(`//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js`, function () {
       (adsbygoogle = window.adsbygoogle || []).push({
