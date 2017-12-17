@@ -142,7 +142,7 @@
         enable_page_level_ads: true
       });
     });
-  }</script><script>if (IS_LOCALHOST) {
+  }</script><script>if (!IS_LOCALHOST) {
     setTimeout(() => {
       loadScript(`//downloads.mailchimp.com/js/signup-forms/popup/embed.js`, function () {
         require(["mojo/signup-forms/Loader"], function (L) {
