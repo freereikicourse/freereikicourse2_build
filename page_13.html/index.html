@@ -122,7 +122,9 @@
         };
       for (n._w = n._w || {}, t = 0; a.length > t; t++) n._w[a[t]] = n[a[t]] = n[a[t]] || new c;
       i = o.createElement(s), i.async = 1, i.src = "//static.woopra.com/js/w.js", e = o.getElementsByTagName(s)[0];
-      setTimeout(() => {e.parentNode.insertBefore(i, e)}, 1000);
+      setTimeout(() => {
+        e.parentNode.insertBefore(i, e)
+      }, 1000);
     })("woopra");
 
     woopra.config({
@@ -149,4 +151,12 @@
         enable_page_level_ads: true
       });
     });
+  }</script><script>if (IS_LOCALHOST) {
+    setTimeout(() => {
+      loadScript(`//downloads.mailchimp.com/js/signup-forms/popup/embed.js`, function () {
+        require(["mojo/signup-forms/Loader"], function (L) {
+          L.start({"baseUrl": "mc.us17.list-manage.com", "uuid": "478ebc004bf01e9b07d754f72", "lid": "b17df1cdab"})
+        })
+      });
+    }, 4000)
   }</script><script type="text/javascript" src="/static/js/main.4c2f508a.js"></script></body></html>
